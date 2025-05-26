@@ -1,0 +1,6 @@
+Django==5.2
+djangorestframework==3.14.0
+snowflake-connector-python==3.4.0
+python-dotenv==1.0.0
+django-cors-headers==4.7.0
+django-filter==23.5
